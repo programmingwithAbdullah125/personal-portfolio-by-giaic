@@ -1,0 +1,21 @@
+*{
+  background-color: gray;
+  color: white;
+}
+.image-container{
+  border-radius: 50%;
+  display: flex;
+  margin-top: 20px;
+}
+.main-container {
+  display: flex;
+  justify-content:center ;
+  margin-top: 90px;
+  gap: 250px;
+}
+.myinfo {
+  padding-left: 20px;
+  margin-top:50px;
+  font-weight: bold;
+  font-size: 24px;
+}

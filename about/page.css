@@ -1,0 +1,10 @@
+
+div {
+    border: 2px solid white;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    margin-top: 150px;
+}
